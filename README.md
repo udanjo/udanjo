@@ -36,6 +36,13 @@
 ![Badge](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Badge](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
+
+<div>
+<a href="https://github.com/udanjo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanjo&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=udanjo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ##
 <p align="center"><i>"Nossas dúvidas são traidoras e nos fazem perder o bem que poderíamos conquistar se não fosse o medo de tentar." <br>
 (O Menestrel - William Shakespeare)
