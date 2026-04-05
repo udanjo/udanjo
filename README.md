@@ -62,7 +62,7 @@ Sou um **desenvolvedor Back-End** apaixonado por tecnologia, com formação em *
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=udanjo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=udanjo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10" />
 </div>
 
 ---
